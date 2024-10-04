@@ -1,0 +1,11 @@
+{
+    "server": {
+        "port": 8080
+    },
+    "Database": {
+        "path": "app.db",
+        "migration": {
+            "path": "migrations"
+        }
+    }
+}
